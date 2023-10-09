@@ -1,0 +1,46 @@
+{
+    "name": "MAUSSI 2.0 carro",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.1",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2",
+        "BitBot": "github:4tronix/bitbot#1.5.6",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.2.1",
+        "audio-recording": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "radio-broadcast": "*",
+        "datalogger": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.8",
+        "pxt-max7219_8x8": "github:alankrantas/pxt-max7219_8x8#v0.0.3",
+        "kittenwifi": "github:kittenbot/pxt-kittenwifi#v0.2.7",
+        "servo": "*",
+        "pxt-katakana": "github:mbitfun/pxt-katakana#v1.0.16",
+        "ucl-junkrobot": "github:chevyng/pxt-ucl-junkrobot#v0.0.12",
+        "pxt-kitronik-stopbit": "github:kitronikltd/pxt-kitronik-stopbit#v1.1.2",
+        "pxt-kitronik-robotics-board": "github:kitronikltd/pxt-kitronik-robotics-board#v0.1.0",
+        "motobit": "github:sparkfun/pxt-moto-bit#v0.0.4",
+        "MakerBit": "github:1010technologies/pxt-makerbit#v2.2.0",
+        "i2cLCD1602": "github:makecode-extensions/i2clcd1602#v1.5.0",
+        "MakerBit-LCD1602": "github:1010technologies/pxt-makerbit-lcd1602#v1.8.10"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
